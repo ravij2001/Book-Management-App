@@ -1,0 +1,164 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "publishedYear": 1925,
+      "status": "Available"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "publishedYear": 1960,
+      "status": "Issued"
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publishedYear": 1949,
+      "status": "Available"
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publishedYear": 1813,
+      "status": "Issued"
+    },
+    {
+      "id": "5",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "publishedYear": 1851,
+      "status": "Available"
+    },
+    {
+      "id": "6",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "publishedYear": 1951,
+      "status": "Available"
+    },
+    {
+      "id": "7",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "publishedYear": 1932,
+      "status": "Issued"
+    },
+    {
+      "id": "8",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical",
+      "publishedYear": 1869,
+      "status": "Available"
+    },
+    {
+      "id": "9",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publishedYear": 1937,
+      "status": "Available"
+    },
+    {
+      "id": "10",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction",
+      "publishedYear": 1866,
+      "status": "Issued"
+    },
+    {
+      "id": "11",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic Poetry",
+      "publishedYear": -700,
+      "status": "Available"
+    },
+    {
+      "id": "12",
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "genre": "Poetry",
+      "publishedYear": 1320,
+      "status": "Available"
+    },
+    {
+      "id": "13",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "genre": "Historical Fiction",
+      "publishedYear": 1862,
+      "status": "Issued"
+    },
+    {
+      "id": "14",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic",
+      "publishedYear": 1818,
+      "status": "Available"
+    },
+    {
+      "id": "15",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "publishedYear": 1988,
+      "status": "Available"
+    },
+    {
+      "id": "16",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "genre": "Drama",
+      "publishedYear": 2003,
+      "status": "Issued"
+    },
+    {
+      "id": "17",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-apocalyptic",
+      "publishedYear": 2006,
+      "status": "Available"
+    },
+    {
+      "id": "18",
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "genre": "Adventure",
+      "publishedYear": 2001,
+      "status": "Issued"
+    },
+    {
+      "id": "19",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Historical Fiction",
+      "publishedYear": 2005,
+      "status": "Available"
+    },
+    {
+      "id": "20",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "genre": "Historical Fiction",
+      "publishedYear": 1859,
+      "status": "Issued"
+    }
+  ]
+}
