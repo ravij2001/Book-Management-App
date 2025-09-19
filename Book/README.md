@@ -44,4 +44,6 @@ API: CRUD CRUD / json-server / reqres (replace with yours)
 
 Routing: React Router DOM
 
+<img width="1907" height="972" alt="image" src="https://github.com/user-attachments/assets/6305544f-6d6a-4cdd-bd2e-891084bfe777" />
+
 
